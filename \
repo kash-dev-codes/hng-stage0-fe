@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="./app.css" type="text/css" media="screen" title="no title" charset="utf-8">
+    <title>Profile Card</title>
+  </head>
+  <body>
+    <div class="profile-card">
+
+      <div class="user-name">User Name</div>
+      <div class="user-bio">User-bio</div>
+      <div class="user-time">User-time</div>
+      <div class="user-time"></div>
+      <div class="user-avatar"></div>
+      <div class="user-social-links">
+        <div class="user-social-facebook"></div>
+        <div class="user-social-insta"></div>
+        <div class="user-social-x"></div>
+      </div>
+      <div class="user-hobbies"></div>
+      <div class="user-dislikes"></div>
+    </div>
+
+  <!-- 
+
+
+    --!>
+    <h1>Testing....</h1> 
+  </body>
+</html>
